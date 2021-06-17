@@ -1,0 +1,16 @@
+version=1
+id=2416617918
+title=Hydrocraft Build 41 PTBR
+description=Hydrocraft Build 41 PTBR. Se divirtam! :D
+description=
+description=EI ESPERE ANTES DE RECLAMAR:
+description=
+description=Precisa baixar o Hydrocraft Build 41 original? R: Positivo. 
+description=Está 100% traduzida? R: Negativo, mas até mês que vem já estará 100% (eu acho)
+description=Vou ficar traduzindo por dia mesmo que seja pouco (ou seja a cada dia você vai receber updates)
+description=
+description=PROGRESSO:
+description=[code]Itens traduzidos: 666/5905
+description=Receitas traduzidas: 232/3150 [/code]
+tags=
+visibility=public
