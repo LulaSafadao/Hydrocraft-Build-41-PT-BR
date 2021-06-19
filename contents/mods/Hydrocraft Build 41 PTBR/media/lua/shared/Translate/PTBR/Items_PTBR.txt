@@ -1,6 +1,6 @@
 Items_PTBR = {
 
-	/************************Translations by Lula Safadao************************/ ZL18k
+	/************************Translations by Lula Safadao & ZL18k************************/ 
 	
 	DisplayNameGas_Can = "Galao de Gasolina",
 	DisplayName_100_Dollar_Bill = "Nota de 100 Dolares",
