@@ -21,6 +21,7 @@ Items_PTBR = {
 	DisplayName_Advanced_First_Aid = "Livro de Medicina Vol. 3",
 	DisplayName_Advanced_Foraging = "Livro de Sobrevivencia Vol. 3",
 	DisplayName_Agar = "Agar-agar",
+	DisplayName_Air_Filter = "Filtro de Ar",
 	DisplayName_Aged_Cheddar_Wheel = "Cheddar velho redondo",
 	DisplayName_Air_Freshener = "Ambientador",
 	DisplayName_Albite = "Albita",
