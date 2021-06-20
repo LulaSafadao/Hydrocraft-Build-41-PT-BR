@@ -1,13 +1,13 @@
 Farming_PTBR = {
 
-/************************Translations by Lula Safadao************************/
+/************************Translations by Lula Safadao & ZL18k************************/
 
 	-- vegetables name (type of seed)
 	Farming_Bean = "Feijao",
 	Farming_BellPepper = "Pimentao",
 	Farming_Eggplant = "Berinjela",
 	Farming_Grape = "Uva",
-	Farming_Leek = "Alho-Poro",
+	Farming_Leek = "Alho-poro",
 	Farming_Lettuce = "Alface",
 	Farming_Onion = "Cebola",
 	Farming_Pea = "Ervilha",
@@ -31,19 +31,19 @@ Farming_PTBR = {
 	Farming_Corn = "Milho",
 	Farming_Cucumber = "Pepino",
 	Farming_Garlic = "Alho",
-	Farming_Golden_Potato = "Batata dourada",
+	Farming_Golden_Potato = "Batata Dourada",
 	Farming_Lemon = "Limao",
 	Farming_Lime = "Lima",
 	Farming_Peach = "Pessego",
 	Farming_Pear = "Pera",
 	Farming_Pineapple = "Abacaxi",
-	Farming_Red_Cabbage = "Repolho roxo",
-	Farming_Red_Corn = "Milho vermelho",
+	Farming_Red_Cabbage = "Repolho Roxo",
+	Farming_Red_Corn = "Milho Vermelho",
 	Farming_Spinach = "Espinafre",
-	Farming_Sweet_Potato = "Batata doce",
+	Farming_Sweet_Potato = "Batata Doce",
 	Farming_Tea = "Cha",
 	Farming_Tobacco = "Tabaco",
 	Farming_Tomatillo = "Tomatillo",
-	Farming_White_Cabbage = "Repolho branco",
-	Farming_White_Corn = "Milho-branco",
+	Farming_White_Cabbage = "Repolho Branco",
+	Farming_White_Corn = "Milho Branco",
 }
