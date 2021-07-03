@@ -866,6 +866,7 @@ Items_PTBR = {
 	Recipe_Make_Bronze_Spiked_Mace = "Produzir Maca de Bronze",
 	Recipe_Make_Bronze_Trident = "Produzir Tridente de Bronze",
 	Recipe_Make_Bronze_War_Hammer = "Produzir Martelo de Guerra de Bronze",
-	Recipe_Make_ = "",
-	Recipe_Make_ = "",
+	Recipe_Make_Bucket_of_Lye = "Preparar Balde com Soda Caustica",
+	Recipe_Make_Bug_Net = "Produzir Rede de Capturar Insetos",
+	Recipe_Make_Bunch_of_Berries = "Preparar Punhado de Bagas",
 }
