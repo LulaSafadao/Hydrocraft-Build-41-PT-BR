@@ -2,7 +2,6 @@ Items_PTBR = {
 
 	/************************Translations by Lula Safadao & ZL18k************************/ 
 	
-	DisplayName_Gas_Can = "Galao de Gasolina",
 	DisplayName_100_Dollar_Bill = "Nota de 100 Dolares",
 	DisplayName_10_Dollar_Bill = "Nota de 10 Dolares",
 	DisplayName_1_Dollar_Bill = "Nota de 1 Dolar",
@@ -2209,13 +2208,5 @@ Items_PTBR = {
 	DisplayName_Hashbrowns = "Bolinho Frito de Batata Apimentada",
 	DisplayName_Hatter_Textbook = "Manual de Chapeleiro",
 	DisplayName_Hawthorn_Fruit = "Espinheiro Branco",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
 	DisplayName_Water_Purifying_Tablets = "Pastilhas Purificadoras de Agua",
 }
