@@ -1141,8 +1141,8 @@ Items_PTBR = {
 	Recipe_Make_Iron_Trowel = "Fabricar Espatula de Ferro",
 	Recipe_Make_Iron_War_Hammer = "Fabricar Martelo de Guerra de Ferro",
 	Recipe_Make_Iron_Wire = "Fabricar Arame de Ferro",
-	Recipe_Make_Italian_Herbs = "",
-	Recipe_Make_Jade_Powder = "",
+	Recipe_Make_Italian_Herbs = "Preparar Ervas Italianas",
+	Recipe_Make_Jade_Powder = "Produzir Po de Jade",
 	Recipe_Make_Jar_of_Apple_Jam = "Preparar Pote com Geleia de Maca",
 	Recipe_Make_Jar_of_Blackberry_Jam = "Preparar Pote com Geleia de Amora",
 	Recipe_Make_Jar_of_Blueberry_Jam= "Preparar Pote com Geleia de Mirtilo",
@@ -1204,5 +1204,5 @@ Items_PTBR = {
 	Recipe_Make_Lever = "Fabricar Alavanca",
 	Recipe_Make_Lime_Jello_Dessert = "Preparar Sobremesa de Gelatina de Lima",
 	Recipe_Make_Lime_Juice = "Preparar Suco de Lima",
-	Recipe_Make_Limed_Hide = "Produzir Couro Tratado com Cal",
+	Recipe_Make_Limed_Hide = "Produzir Couro Tratado",
 }
