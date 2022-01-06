@@ -1,6 +1,6 @@
 Items_PTBR = {
 
-/************************Translations by Lula Safadao & ZL18k************************/
+/************************Translations by MrFudencio & ZL18k************************/
 
 	Recipe_Add_Ammonia_To_Morphin_Hydrochloride_Solution = "Adicionar Amonia a Solucao de Cloridrato de Morfina",
 	Recipe_Add_Bonnet_to_Wagon = "Adicionar Capota a Carroca",
