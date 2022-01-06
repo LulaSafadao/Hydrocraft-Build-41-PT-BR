@@ -1,6 +1,6 @@
 IGUI_PTBR = {
 
-	/************************Translations by Lula Safadao************************/
+	/************************Translations by MrFudencio************************/
 
 	IGUI_CraftCategory_Ranching = "Pecuaria",
 	IGUI_CraftCategory_Alchemy = "Alquimia",
