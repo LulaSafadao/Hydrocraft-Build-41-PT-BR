@@ -1,6 +1,6 @@
 Tooltip_PTBR = {
 
-/************************Translations by Lula Safadao************************/
+/************************Translations by MrFudencio************************/
 
 -- Item tooltip
 Tooltip_HCArmor = "Pressione P para ver qual armadura voce esta vestindo.",	
