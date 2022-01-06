@@ -1,7 +1,7 @@
 ContextMenu_PTBR = {
 
-/************************Translations by Lula Safadao************************/
+/************************Translations by MrFudencio************************/
 
 
-	ContextMenu_Sow_Trellis_Seed = "Plantar sementes na treliça",
+	ContextMenu_Sow_Trellis_Seed = "Plantar sementes na trelica",
 }
