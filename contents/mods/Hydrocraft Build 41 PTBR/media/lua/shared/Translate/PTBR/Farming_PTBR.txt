@@ -1,6 +1,6 @@
 Farming_PTBR = {
 
-/************************Translations by Lula Safadao & ZL18k************************/
+/************************Translations by MrFudencio & ZL18k************************/
 
 	-- vegetables name (type of seed)
 	Farming_Bean = "Feijao",
