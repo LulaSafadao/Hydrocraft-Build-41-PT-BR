@@ -2,6 +2,8 @@ ContextMenu_PTBR = {
 
 /************************Translations by MrFudencio************************/
 
-
-	ContextMenu_Sow_Trellis_Seed = "Plantar sementes na treliça",
+    ContextMenu_Build_Trellis = "Instalar Treliças",
+    ContextMenu_Inject = "Injetar",
+    ContextMenu_Sniff = "Farejar",
+    ContextMenu_Sow_Trellis_Seed = "Sementes de Vinha Apoiadas",
 }
