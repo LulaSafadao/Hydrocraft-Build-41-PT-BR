@@ -36,4 +36,5 @@ IGUI_PTBR = {
 	IGUI_Generator_TypeGas = "Tipo gás",
 	IGUI_Generator_Condition = "%1% Condicão",
 	IGUI_Generator_FuelAmount = "%1% Combustível",
+        IGUI_ItemCat_Money = "Dinheiro",
 }
