@@ -2,12 +2,9 @@ Tooltip_PTBR = {
 
 /************************Translations by MrFudencio************************/
 
--- Item tooltip
-Tooltip_HCArmor = "Pressione P para ver qual armadura voce esta vestindo.",	
-Tooltip_HCBluebarrelcorpse = "Vai se transformar em lixo toxico.",
-Tooltip_HCFeedme = "Alimente-se para se manter vivo.",
-Tooltip_HCSleep = "Jogue no chao para usa-lo",
-Tooltip_food_Cooked = "Cozinhado",
-Tooltip_food_Frozen = "Congelado",	
-Tooltip_item_Insulation = "Isolamento",
+    HCFarming_Tooltip_UseFruitAsSeed = "Pode usar frutas como semente.",
+    Tooltip_HCArmor = "Pressione P para ver qual armadura você está usando.",
+    Tooltip_HCBluebarrelcorpse = "Se transformará em lixo tóxico.",
+    Tooltip_HCFeedme = "Alimentar para manter vivo.",
+    Tooltip_HCSleep = "Deixar cair no chão para usar.",
 }
