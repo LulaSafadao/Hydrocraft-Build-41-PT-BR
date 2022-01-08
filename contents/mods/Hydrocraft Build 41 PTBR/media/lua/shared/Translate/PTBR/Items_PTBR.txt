@@ -3252,14 +3252,14 @@ Items_PTBR = {
 	
 /************************Pagina 39************************/ 
 	
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
-	DisplayName_ = "",
+	DisplayName_Peanutbutter_Cookie = "",
+	DisplayName_Peapod = "",
+	DisplayName_Pear = "",
+	DisplayName_Pear_Pie = "",
+	DisplayName_Pear_Seeds = "",
+	DisplayName_Pear_Seeds_Packet = "",
+	DisplayName_Pear = "",
+	DisplayName_Pear = "",
 	DisplayName_ = "",
 	DisplayName_ = "",
 	DisplayName_ = "",
