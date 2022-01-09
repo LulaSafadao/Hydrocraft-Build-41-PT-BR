@@ -7,6 +7,9 @@ Se você for procurar por "", ou ? vai perceber que são os únicos que não est
 OBS: Para procurar esses códigos locais basta dar ctrl+f no seu teclado.
 OBS2: O texto em inglês está oque vem depois do DisplayName_
 
+Depois de traduzir é só clicar no "commit changes", depois só voltar na tela principal do mod, clicar no pull request e aceitar.
+Assim iremos receber as suas traduções e avaliar-los.
+
 /************************Pagina 1 (ACENTUAÇÃO/REVISÃO)************************/ 
 	
 	DisplayName_1_Dollar_Bill = "Nota de 1 Dólar",
