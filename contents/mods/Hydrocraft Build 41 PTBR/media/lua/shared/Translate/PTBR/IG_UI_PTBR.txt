@@ -2,6 +2,16 @@ IGUI_PTBR = {
 
 	/************************Translations by MrFudencio************************/
 
+ATENÇÃO: Se você quer ajudar-nos a traduzir do jeito mais fácil, vai existir 2 tipos de "código local" pra facilitar.
+Se você for procurar por "", ou ? vai perceber que são os únicos que não estão traduzidos, para adicionar a tradução basta colocar o texto dentro do "" 
+OBS: Para procurar esses códigos locais basta dar ctrl+f no seu teclado.
+OBS2: O texto em inglês está oque vem depois do DisplayName_
+
+Se você já ta manjado no assunto e quer ajudar mais ainda, mande uma mensagem pra mim no discord ou no github mesmo.
+
+Depois de traduzir é só clicar no "commit changes", depois só voltar na tela principal do mod, clicar no pull request e aceitar.
+Assim iremos receber as suas traduções e avaliar-los.
+
 	IGUI_CraftCategory_Ranching = "Pecuária",
 	IGUI_CraftCategory_Alchemy = "Alquimia",
 	IGUI_CraftCategory_Death = "Morte",
