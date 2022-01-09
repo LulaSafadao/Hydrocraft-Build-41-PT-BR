@@ -2,6 +2,11 @@ Items_PTBR = {
 
 	/************************Translations by MrFudencio & ZL18k************************/ 
 
+ATENÇÃO: Se você quer ajudar-nos a traduzir do jeito mais fácil, vai existir 2 tipos de "código local" pra facilitar.
+Se você for procurar por "", ou ? vai perceber que são os únicos que não estão traduzidos, para adicionar a tradução basta colocar o texto dentro do "" 
+OBS: Para procurar esses códigos locais basta dar ctrl+f no seu teclado.
+OBS2: O texto em inglês está oque vem depois do DisplayName_
+
 /************************Pagina 1 (ACENTUAÇÃO/REVISÃO)************************/ 
 	
 	DisplayName_1_Dollar_Bill = "Nota de 1 Dólar",
