@@ -18,7 +18,7 @@ Assim iremos receber as suas traduções e avaliar-los.
     Farming_Corn = "Milho",
     Farming_Eggplant = "Berinjela",
     Farming_Flax = "Linho",
-    Farming_Frozen = "A planta está congelando e não vai receber água",
+    Farming_Frozen = "A planta está congelando e não vai receber água.",
     Farming_Fruitasseed = "Você pode usar uma fruta como semente.",
     Farming_Grape = "Uva",
     Farming_Grapes = "Uvas",
