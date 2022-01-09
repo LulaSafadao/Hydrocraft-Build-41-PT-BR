@@ -2,6 +2,16 @@ Recipes_PTBR = {
 
 /************************Translations by MrFudencio & ZL18k************************/
 
+ATENÇÃO: Se você quer ajudar-nos a traduzir do jeito mais fácil, vai existir 2 tipos de "código local" pra facilitar.
+Se você for procurar por "", ou ? vai perceber que são os únicos que não estão traduzidos, para adicionar a tradução basta colocar o texto dentro do "" 
+OBS: Para procurar esses códigos locais basta dar ctrl+f no seu teclado.
+OBS2: O texto em inglês está oque vem depois do DisplayName_
+
+Se você já ta manjado no assunto e quer ajudar mais ainda, mande uma mensagem pra mim no discord ou no github mesmo.
+
+Depois de traduzir é só clicar no "commit changes", depois só voltar na tela principal do mod, clicar no pull request e aceitar.
+Assim iremos receber as suas traduções e avaliar-los.
+
 	Recipe_Add_Ammonia_To_Morphin_Hydrochloride_Solution = "Adicionar Amonia a Solucao de Cloridrato de Morfina",
 	Recipe_Add_Bonnet_to_Wagon = "Adicionar Capota a Carroca",
 	Recipe_Add_Bonnet_to_Wagon_with_Oxen = "Adicionar Capota a Carroca com Bois",
@@ -35,7 +45,7 @@ Recipes_PTBR = {
 	Recipe_Anchor_Arc_Furnace = "Ancorar Forno de Arco",
 	Recipe_Anchor_Beehive = "Ancorar Colmeia (Profissional)",
 	Recipe_Anchor_Blast_Furnace = "Ancorar Forno-alto",
-	Recipe_Anchor_Cellar = "Ancorar Por�o",
+	Recipe_Anchor_Cellar = "Ancorar Porão",
 	Recipe_Anchor_Dark_Mine = "Ancorar Mina Escura",
 	Recipe_Anchor_Distillery = "Ancorar Destilaria",
 	Recipe_Anchor_Electronics_Workbench = "Ancorar Bancada de Trabalho Electronico",
@@ -234,7 +244,7 @@ Recipes_PTBR = {
 	Recipe_Close_Umbrella = "Fechar Guarda-chuva",
 	Recipe_Collect_Bees = "Coletar Abelhas",
 	Recipe_Collect_New_Queen_Bee = "Coletar Nova Abelha Rainha",
-	Recipe_Connect_Glass_Balloon_to_Beaker_with_Water = Conectar o Bal�o de Vidro ao Bequer com Agua"",
+	Recipe_Connect_Glass_Balloon_to_Beaker_with_Water = Conectar o Balão de Vidro ao Bequer com Agua"",
 	Recipe_Construct_Cellar = "Construir Porao",
 	Recipe_Construct_Grindstone = "Construir Pedra de Moagem",
 	Recipe_Construct_Oil_Press = "Construir Prensa de Oleo",
@@ -369,7 +379,7 @@ Recipes_PTBR = {
 	Recipe_Disinfect_Diaper = "Desinfetar Fralda",
 	Recipe_Disinfect_Menstrual_Pad = "Desinfetar Absorvente",
 	Recipe_Dismantle = "Desmontar",
-	Recipe_Dismantle_Auto_Parts = "Desmontar Autope�as",
+	Recipe_Dismantle_Auto_Parts = "Desmontar Autopeças",
 	Recipe_Dismantle_Bicycle = "Desmontar Bicicleta",
 	Recipe_Dismantle_Drying_Machine = "Desmontar Maquina de Secar",
 	Recipe_Dismantle_Fridge = "Desmontar Freezer",
@@ -668,7 +678,7 @@ Recipes_PTBR = {
 	Recipe_Grind_Corn_Flour = "Moer Farinha de Milho",
 	Recipe_Grind_Rice_Flour = "Moer Farinha de Arroz",
 	Recipe_Grind_Rice_with_Chaff = "Moer Arroz com Palha",
-	Recipe_Grind_Solid_Fuel_Cube = "Moer Cubo de Combust�vel Solido",
+	Recipe_Grind_Solid_Fuel_Cube = "Moer Cubo de Combustível Solido",
 	Recipe_Grind_Tobacco = "Moer Tabaco",
 	Recipe_Grind_Wholemeal_flour = "Moer Farinha Integral",
 	Recipe_Grow_Spirulina_in_Tank = "Cultivar Spirulina no Tanque",
