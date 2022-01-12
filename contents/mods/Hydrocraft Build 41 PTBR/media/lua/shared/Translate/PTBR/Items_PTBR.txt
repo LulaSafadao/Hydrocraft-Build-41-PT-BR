@@ -844,8 +844,16 @@ Assim iremos receber as suas traduções e avaliar-los.
 	
 /************************Pagina 10 (ACENTUAÇÃO/REVISÃO)************************/ 
 	
-	
-	
+	DisplayName_Cash_Register = "Caixa Registradora",
+	DisplayName_Cat_(Female) = "Gata",
+	DisplayName_Cat_(Male) = "Gato",
+	DisplayName_Cat_bones = "Ossos de Gato",
+	DisplayName_Cat_Carcass = "Carcaça de Gato",
+	DisplayName_Cat_Food = "Comida de Gato",
+	DisplayName_Cat_Poop = "Cocô de Gato",
+	DisplayName_Caterpillar = "Lagarta",
+	DisplayName_Catfish_Roe = "Ovas de Peixe-gato",
+	DisplayName_Catnip = "",
 	
 	
 	
@@ -853,18 +861,7 @@ Assim iremos receber as suas traduções e avaliar-los.
 	
 	
 	DisplayName_Carton_of_Cigarettes = "Caixa de Cigarros",
-	DisplayName_Cash_Register = "Caixa Registradora",
-	DisplayName_Caterpillar = "Lagarta",
-	DisplayName_Cat_(Female) = "Gata",
-	DisplayName_Cat_(Male) = "Gato",
-	DisplayName_Cat_Bones = "Ossos de Gato",
-	DisplayName_Cat_Carcass = "Carcaça de Gato",
-	DisplayName_Cat_Food = "Comida de Gato",
-	DisplayName_Cat_Poop = "Cocô de Gato",
-	DisplayName_Cat_Toy = "Brinquedo de Gato",
-	DisplayName_Catfish = "Peixe-Gato",
 	DisplayName_CD_Case_with_CD = "Capa de Acrílico com CD",
-	DisplayName_CD_Player = "Aparelho de Som Portátil",
 	DisplayName_Cauliflower = "Couve-flor",
 	DisplayName_Celery_Seed = "Sementes de Aipo",
 	DisplayName_Celtic_Folklore = "Folclore Celestial",
