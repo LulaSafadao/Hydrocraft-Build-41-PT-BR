@@ -30,7 +30,7 @@ Assim iremos receber as suas traduções e avaliar-los.
 	IGUI_CraftCategory_Hygiene = "Higiene",
 	IGUI_CraftCategory_Hunting = "Caça",
 	IGUI_CraftCategory_Firecraft = "Fogo",
-	IGUI_CraftCategory_Anchor = "Âncora",
+	IGUI_CraftCategory_Anchor = "Ancorar",
 	IGUI_CraftCategory_Smithing = "Metalurgia",
 	IGUI_CraftCategory_Jewelry = "Jóia",
 	IGUI_CraftCategory_Papercraft = "Papel",
