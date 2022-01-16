@@ -3692,7 +3692,7 @@ Assim iremos receber as suas traduções e avaliar-los.
 	DisplayName_Poppy_Seeds = "Sementes de Papoula",
 	DisplayName_Poppy_Seeds_Packet = "Pacote de Sementes de Papoula",
 	DisplayName_Popsicle_Stick = "Bastão de Picolé",
-	DisplayName_Popular_Machines_Vol_1 = "Máquinas populares Vol. 1",
+	DisplayName_Popular_Machines_Vol_1 = "Máquinas Populares Vol. 1",
 	DisplayName_Porcelain_Bowl = "Tigela de Porcelana",
 	DisplayName_Porcelain_Plate = "Prato de Porcelana",
 	DisplayName_Porcelain_Platter = "Bandeja de Porcelana",
